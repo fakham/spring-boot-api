@@ -1,0 +1,8 @@
+server:
+  port: 8081
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/spring-db (change this!!!)
+    username: username (change this!!!)
+    password: password (change this!!!)
+    pool-size: 30
